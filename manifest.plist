@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
         	    <key>url</key>
-		        <string>file://Users/apple/Desktop/App%202024-02-22%2012-18-20/App.ipa</string>        
+		        <string>https://github.com/Sun-Smart/ioshost/blob/main/App.ipa</string>        
                 </dict>
             </array>
             <key>metadata</key>
